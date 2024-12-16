@@ -47,6 +47,10 @@ math {
 	margin-top: 1rem;
 }
 
+svg path {
+	color: #00693e;
+}
+
 .hljs {
 	@apply rounded-lg;
 }
@@ -73,7 +77,7 @@ li p {
 
 ::-webkit-scrollbar-thumb {
 	--tw-border-opacity: 1;
-	background-color: rgba(217, 217, 227, 0.8);
+	background-color: rgba(0, 105, 62, 0.8);
 	border-color: rgba(255, 255, 255, var(--tw-border-opacity));
 	border-radius: 9999px;
 	border-width: 1px;
@@ -81,7 +85,7 @@ li p {
 
 /* Dark theme scrollbar styles */
 .dark ::-webkit-scrollbar-thumb {
-	background-color: rgba(69, 69, 74, 0.8); /* Darker color for dark theme */
+	background-color: rgba(18, 49, 43, 0.8); /* Darker color for dark theme */
 	border-color: rgba(0, 0, 0, var(--tw-border-opacity));
 }
 
