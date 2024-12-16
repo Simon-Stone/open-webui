@@ -357,7 +357,7 @@
 		font-family:
 			'Mona Sans',
 			-apple-system,
-			'Inter',
+			'National 2',
 			ui-sans-serif,
 			system-ui,
 			'Segoe UI',
