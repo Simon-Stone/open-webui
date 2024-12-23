@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'National 2';
-	src: url('/assets/fonts/National2-Light.otf');
+	src: url('/assets/fonts/National2-Regular.otf');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -14,7 +14,7 @@
 
 @font-face {
 	font-family: 'National 2';
-	src: url('/assets/fonts/National2-LightItalic.otf');
+	src: url('/assets/fonts/National2-RegularItalic.otf');
 	font-weight: normal;
 	font-style: italic;
 }
